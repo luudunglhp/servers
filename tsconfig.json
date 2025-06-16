@@ -5,8 +5,8 @@
     "moduleResolution": "Node16",
     "strict": true,
     "esModuleInterop": true,
-    "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true,
+,
+    "outDir": "dist"    "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true
   },
   "include": ["src/**/*"],
